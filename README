@@ -1,4 +1,4 @@
-## Django REST API - Student and Course Management
+# Django REST API - Student and Course Management
 
 This Django REST project serves as an API for managing student and course data. It provides endpoints to handle student information (such as RG, CPF, and email) and course details (course name, course code, level, and period).
 
@@ -7,10 +7,6 @@ This Django REST project serves as an API for managing student and course data. 
 Authentication System: The API includes a robust authentication mechanism to ensure data security and privacy.
 
 CRUD Operations: The project implements CRUD functionalities for both students and courses, allowing Create, Read, Update, and Delete operations on the respective endpoints.
-
-## Exercise by Alura
-
-This project is part of an exercise proposed by Alura as part of the Django 3: Django Rest Framework course. It focuses on building a RESTful API from scratch, emphasizing data handling, authentication, and CRUD operations in Django.
 
 ## Setup Instructions:
 
